@@ -6,7 +6,6 @@
   "va":{
     "report_server":{
       "enabled": true,
-//      "host": "api.stableapproach.net",
       "host": "kgvams.kglobalair.com/",
       "target": "/dstable",
       "semver": {
