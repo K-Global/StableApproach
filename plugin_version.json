@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "kgvams.kglobalair.com/",
+      "host": "kgvams.kglobalair.com",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
