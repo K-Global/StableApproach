@@ -6,8 +6,9 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "api.stableapproach.net",
-      "target": "/report",
+//      "host": "api.stableapproach.net",
+      "host": "kgvams.kglobalair.com/",
+      "target": "/dstable",
       "semver": {
         "min": "1.1.0",
         "max": "1.98.0"
